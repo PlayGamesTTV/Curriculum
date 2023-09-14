@@ -1,0 +1,52 @@
+img {
+    border: 3px solid black;
+}
+
+body {
+    background-color: rgb(36, 36, 45);
+}
+
+.container {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.titolo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.sottotitolo {
+    font-size: 23px;
+    color: gray;
+}
+
+.sottotitolo a {
+    text-decoration: none;
+    color: rgb(150, 138, 11);
+}
+
+.sottotitolo a:hover {
+    text-decoration: underline;
+}
+
+.sottotitolo .special-link:visited {
+    color: rgb(150, 138, 11);
+}
+
+.materie {
+    font-size: 19px;
+}
+
+.section a {
+    color: rgb(150, 138, 11);
+}
+
+.section a:hover {
+    text-decoration: underline;
+}
+
+.section .special-link:visited {
+    color: rgb(150, 138, 11);
+}
